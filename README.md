@@ -3,7 +3,7 @@
 
 An interactive dashboard that analyzes why customers leave a telecom company and which customer groups are most at risk.
 
-🔗 **Live Dashboard:** https://dipti2115.github.io/Telco-Customer-Churn-Dashboard/
+🔗 **Live Dashboard:** index.html
 
 ## Overview
 This project analyzes **7,043 Telco customers** to understand churn patterns. About **26.5% of customers (1,869)** churned. The dashboard lets you click any chart or use the filters to cross-filter every page.
