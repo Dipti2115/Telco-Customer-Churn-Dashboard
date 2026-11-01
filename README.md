@@ -28,7 +28,7 @@ This project analyzes **7,043 Telco customers** to understand churn patterns. Ab
 - Works on desktop and mobile
 
 ## Tech Used
-- HTML, PowerBi
+- HTML, JavaScript, Chart.js
 
 ## How to Use
 Open the live link above, or download `index.html` and open it in any browser.
